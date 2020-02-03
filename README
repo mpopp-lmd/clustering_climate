@@ -1,0 +1,5 @@
+The LMDZtrunkx.tar.gz.part files contain the LMDZ code used to perform the simulations in Popp et al. 2020, submitted to JAMES.
+
+Before unpacking the files need to be merged by typing
+cat LMDZtrunk1.tar.gz.part LMDZtrunk2.tar.gz.part LMDZtrunk3.tar.gz.part LMDZtrunk4.tar.gz.part LMDZtrunk5.tar.gz.part > LMDZtrunk.tar.gz
+
